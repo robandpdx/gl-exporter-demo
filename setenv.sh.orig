@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export GITLAB_API_ENDPOINT=https://gitlab.com/api/v4
+export GITLAB_USERNAME=robandpdx
+export GITLAB_API_PRIVATE_TOKEN=
+
+export GITHUB_TOKEN=
+export ORG=
