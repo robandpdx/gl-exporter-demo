@@ -30,7 +30,7 @@ npm link
 Source `setenv.sh` file.  
 
 ```
-gh gitlab-stats --token $GITLAB_API_PRIVATE_TOKEN --output-file gl-stats.csv --hostname https://gitlab-td-robandpdx.expert-services.io/
+gh gitlab-stats --token $GITLAB_API_PRIVATE_TOKEN --output-file gl-stats.csv --hostname $GITLAB_HOST
 ```
 
 ## Export from GitLab
